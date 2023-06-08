@@ -140,7 +140,7 @@
           display: block;
           left: 5%;
           top: 0%;
-          height: 80px;
+          height: 75px;
           position: absolute;
           animation: anim2 20s linear infinite;
           animation-delay: 1s;
