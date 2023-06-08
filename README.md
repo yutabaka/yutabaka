@@ -1,6 +1,6 @@
 
 <a href="#" target="_blank">
-  <img src="svg/yutabaka.svg" width="1200" alt="yutabaka" />
+  <img src="svg/yutabaka.svg" width="400" alt="yutabaka_" />
 </a>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif">
